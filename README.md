@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 ## Greedy

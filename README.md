@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Pranavika269/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |

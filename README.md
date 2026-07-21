@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

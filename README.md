@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pranavika269/leetcode-solution/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pranavika269/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pranavika269/leetcode-solution/tree/master/0441-arranging-coins) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |

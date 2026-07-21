@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Pranavika269/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Number Theory

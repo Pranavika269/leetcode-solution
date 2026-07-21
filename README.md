@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0492-construct-the-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |

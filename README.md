@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Pranavika269/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0290-word-pattern) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
 ## Interactive
 |  |
@@ -229,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

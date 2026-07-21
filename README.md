@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranavika269/leetcode-solution/tree/master/0476-number-complement) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

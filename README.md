@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pranavika269/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Pranavika269/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |

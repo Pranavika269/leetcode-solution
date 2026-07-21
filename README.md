@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranavika269/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Pranavika269/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/Pranavika269/leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranavika269/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
+| [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 ## Probability and Statistics
 |  |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Pranavika269/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0290-word-pattern) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Pranavika269/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavika269/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |

@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Pranavika269/leetcode-solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Pranavika269/leetcode-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0394-decode-string) |
 ## Tree
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Pranavika269/leetcode-solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |

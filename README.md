@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Pranavika269/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranavika269/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |

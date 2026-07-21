@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pranavika269/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
 | ------- |

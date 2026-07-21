@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Pranavika269/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |

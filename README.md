@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pranavika269/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/Pranavika269/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Pranavika269/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation

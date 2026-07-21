@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
@@ -68,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |

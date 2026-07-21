@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
+| [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pranavika269/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Pranavika269/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |

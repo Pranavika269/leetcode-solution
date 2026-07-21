@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranavika269/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavika269/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |

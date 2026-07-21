@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranavika269/leetcode-solution/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
 | ------- |

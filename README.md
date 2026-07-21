@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Pranavika269/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Pranavika269/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Pranavika269/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pranavika269/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0290-word-pattern) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Pranavika269/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pranavika269/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |

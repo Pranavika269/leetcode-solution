@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pranavika269/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pranavika269/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranavika269/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0344-reverse-string) |

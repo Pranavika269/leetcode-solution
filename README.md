@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0338-counting-bits) |

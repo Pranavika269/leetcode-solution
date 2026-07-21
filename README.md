@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Pranavika269/leetcode-solution/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

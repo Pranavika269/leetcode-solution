@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Pranavika269/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Pranavika269/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranavika269/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Pranavika269/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Pranavika269/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |

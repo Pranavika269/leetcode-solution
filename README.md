@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavika269/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Pranavika269/leetcode-solution/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0205-isomorphic-strings) |
@@ -175,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavika269/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0283-move-zeroes) |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0492-construct-the-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0482-license-key-formatting](https://github.com/Pranavika269/leetcode-solution/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Pranavika269/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
 ## Stack
 |  |
 | ------- |

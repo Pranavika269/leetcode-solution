@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Pranavika269/leetcode-solution/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Pranavika269/leetcode-solution/tree/master/0504-base-7) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Pranavika269/leetcode-solution/tree/master/0482-license-key-formatting) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
 ## Bit Manipulation
 |  |

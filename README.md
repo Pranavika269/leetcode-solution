@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Pranavika269/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranavika269/leetcode-solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Pranavika269/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Pranavika269/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Pranavika269/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Pranavika269/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranavika269/leetcode-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0394-decode-string) |
 ## Tree

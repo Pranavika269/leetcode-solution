@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranavika269/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Pranavika269/leetcode-solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavika269/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pranavika269/leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pranavika269/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0118-pascals-triangle) |

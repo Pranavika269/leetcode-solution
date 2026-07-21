@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Pranavika269/leetcode-solution/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Pranavika269/leetcode-solution/tree/master/0500-keyboard-row) |

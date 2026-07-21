@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pranavika269/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pranavika269/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |

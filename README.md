@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Pranavika269/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Pranavika269/leetcode-solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Pranavika269/leetcode-solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0409-longest-palindrome) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0461-hamming-distance) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pranavika269/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Pranavika269/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 ## Breadth-First Search

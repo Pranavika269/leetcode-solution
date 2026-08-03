@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pranavika269/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pranavika269/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Pranavika269/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Pranavika269/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Pranavika269/leetcode-solution/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pranavika269/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0125-valid-palindrome) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Pranavika269/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pranavika269/leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0179-largest-number) |

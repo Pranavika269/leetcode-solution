@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Pranavika269/leetcode-solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Pranavika269/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Pranavika269/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |

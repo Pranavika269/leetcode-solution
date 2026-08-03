@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranavika269/leetcode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pranavika269/leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pranavika269/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0292-nim-game) |
+| [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |

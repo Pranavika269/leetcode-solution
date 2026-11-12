@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Pranavika269/leetcode-solution/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranavika269/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Pranavika269/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -627,5 +630,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranavika269/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavika_S?theme=light&font=BioRhyme)

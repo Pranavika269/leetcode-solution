@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Pranavika269/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pranavika269/leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1748-sum-of-unique-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranavika269/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Pranavika269/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavika269/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Pranavika269/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 ## Prefix Sum
 |  |
 | ------- |

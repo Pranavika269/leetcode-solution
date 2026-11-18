@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Pranavika269/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/Pranavika269/leetcode-solution/tree/master/1447-simplified-fractions) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pranavika269/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pranavika269/leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |

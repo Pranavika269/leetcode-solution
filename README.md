@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Pranavika269/leetcode-solution/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Pranavika269/leetcode-solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Pranavika269/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0097-interleaving-string) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Pranavika269/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Pranavika269/leetcode-solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pranavika269/leetcode-solution/tree/master/0096-unique-binary-search-trees) |

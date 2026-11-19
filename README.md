@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavika269/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pranavika269/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Pranavika269/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pranavika269/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Pranavika269/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pranavika269/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pranavika269/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Pranavika269/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0045-jump-game-ii) |
@@ -686,5 +689,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavika_S?theme=light&font=BioRhyme)

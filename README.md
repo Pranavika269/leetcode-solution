@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pranavika269/leetcode-solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Pranavika269/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Pranavika269/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pranavika269/leetcode-solution/tree/master/0042-trapping-rain-water) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pranavika269/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Pranavika269/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Pranavika269/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pranavika269/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0047-permutations-ii) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranavika269/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
@@ -704,5 +708,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Pranavika269/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Pranavika269/leetcode-solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavika_S?theme=light&font=BioRhyme)

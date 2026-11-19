@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Pranavika269/leetcode-solution/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Pranavika269/leetcode-solution/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Pranavika269/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Pranavika269/leetcode-solution/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Pranavika269/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 ## Dynamic Programming

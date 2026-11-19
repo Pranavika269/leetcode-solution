@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pranavika269/leetcode-solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pranavika269/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0099-recover-binary-search-tree) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |

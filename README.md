@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Pranavika269/leetcode-solution/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranavika269/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pranavika269/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Pranavika269/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavika269/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Pranavika269/leetcode-solution/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Pranavika269/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Pranavika269/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |

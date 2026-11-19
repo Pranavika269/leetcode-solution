@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pranavika269/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pranavika269/leetcode-solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Pranavika269/leetcode-solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pranavika269/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Pranavika269/leetcode-solution/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Pranavika269/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pranavika269/leetcode-solution/tree/master/0190-reverse-bits) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Pranavika269/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Pranavika269/leetcode-solution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Pranavika269/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Pranavika269/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |

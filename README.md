@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranavika269/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pranavika269/leetcode-solution/tree/master/0069-sqrtx) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavika269/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Pranavika269/leetcode-solution/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Pranavika269/leetcode-solution/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Pranavika269/leetcode-solution/tree/master/0401-binary-watch) |
 ## Dynamic Programming
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Pranavika269/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Pranavika269/leetcode-solution/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0120-triangle) |

@@ -1,5 +1,4 @@
 class Solution:
-    """My Own Bucket Sort Solution!!!"""
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         n = len(nums)
         occur = {}

@@ -1,19 +1,24 @@
-class Solution:
-    def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        graph = collections.defaultdict(list)
+class Solution(object):
+    def validPath(self, n, edges, source, destination):
+        # Build adjacency list
+        graph = [[] for _ in range(n)]
         for u, v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        
-        def dfs(node, visited):
-            if node == destination:
+
+        # Trivial case
+        if source == destination:
+            return True
+
+        visited = [False] * n
+
+        def dfs(u):
+            if u == destination:
                 return True
-            visited.add(node)
-            for neighbor in graph[node]:
-                if neighbor not in visited:
-                    if dfs(neighbor, visited):
-                        return True
+            visited[u] = True
+            for v in graph[u]:
+                if not visited[v] and dfs(v):
+                    return True
             return False
-        
-        visited = set()
-        return dfs(source, visited)
+
+        return dfs(source)

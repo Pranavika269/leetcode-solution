@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/Pranavika269/leetcode-solution/tree/master/0837-new-21-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Pranavika269/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pranavika269/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pranavika269/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -929,5 +931,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Pranavika269/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavika_S?theme=light&font=BioRhyme)

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Pranavika269/leetcode-solution/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranavika269/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranavika269/leetcode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 ## Probability and Statistics
 |  |

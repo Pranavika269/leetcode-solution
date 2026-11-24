@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pranavika269/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranavika269/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavika269/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranavika269/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
@@ -938,10 +942,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranavika269/leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavika_S?theme=light&font=BioRhyme)

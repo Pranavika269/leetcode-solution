@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Pranavika269/leetcode-solution/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Pranavika269/leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavika269/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranavika269/leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavika269/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Pranavika269/leetcode-solution/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavika269/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pranavika269/leetcode-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Pranavika269/leetcode-solution/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |

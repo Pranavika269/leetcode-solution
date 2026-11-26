@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pranavika269/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Pranavika269/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pranavika269/leetcode-solution/tree/master/0441-arranging-coins) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pranavika269/leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavika269/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3934-smallest-unique-subarray](https://github.com/Pranavika269/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Pranavika269/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |

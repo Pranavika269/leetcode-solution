@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranavika269/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Pranavika269/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/Pranavika269/leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pranavika269/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pranavika269/leetcode-solution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Pranavika269/leetcode-solution/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Pranavika269/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pranavika269/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranavika269/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranavika269/leetcode-solution/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranavika269/leetcode-solution/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranavika269/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pranavika269/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Pranavika269/leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranavika269/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Pranavika269/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavika269/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pranavika269/leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pranavika269/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pranavika269/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/Pranavika269/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pranavika269/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |

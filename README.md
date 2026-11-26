@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pranavika269/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1600-throne-inheritance](https://github.com/Pranavika269/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pranavika269/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pranavika269/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranavika269/leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pranavika269/leetcode-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0743-network-delay-time](https://github.com/Pranavika269/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranavika269/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pranavika269/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
